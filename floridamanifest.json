@@ -1,0 +1,16 @@
+{
+  "servers": [
+    {
+      "name": "FLORIDA RUST",
+      "ip": "185.135.81.122",
+      "port": 35500,
+      "description": "WELCOME"
+    },
+    {
+      "name": "Мой тестовый сервер",
+      "ip": "123.456.789.11",
+      "port": 28016,
+      "description": "Тестовый сервер"
+    }
+  ]
+}
